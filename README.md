@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://paste.pics/NTAGM)
+![screenshot](https://i2.paste.pics/4e16ae8a420213ec252fab897ca51930.png)
 
 ### Built With
 
